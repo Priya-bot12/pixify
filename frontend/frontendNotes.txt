@@ -1,0 +1,19 @@
+1. create a different folder for the frontend part 
+2. client folder cotains all the frontend part 
+3. npm create@latest
+4. choose react+javaScript
+5. install the dependencies
+   1. npm install
+6. npm run dev -> to start the project
+7. Now we need to delete the default project that is created 
+   1. delete app.css
+   2. clear app.jsx and use rafce snippet
+   3. clear index.css
+   4. update the title in the index.html
+8. Install talwind.css through documentation
+9. In public we have the icon of our project wwhich is visible in tab with the title
+
+10. framer motion - Motion library of javaScript
+    use motion with components like
+    <motion.div />
+    <motion.ul animate={{ rotate: 360 }} />
